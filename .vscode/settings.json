@@ -1,0 +1,45 @@
+{
+  // 📝 Palabras personalizadas para evitar subrayados rojos
+  "cSpell.words": [
+    "Búsqueda",
+    "Newverse",
+    "newverse",
+    "Netssential",
+    "nv_Services",
+    "nv_Subsidiarie",
+    "services",
+  ],
+  // 🌈 Tema de iconos (asegúrate de tener instalada la extensión "Material Icon Theme")
+  "workbench.iconTheme": "material-icon-theme",
+  // 🧭 Asociación de iconos personalizados para carpetas específicas
+  "material-icon-theme.folders.associations": {
+    "Newverse": "project",
+    "Newverse_General_Control_Center": "tools",
+    "nv_Services": "services",
+    "nv_Subsidiarie": "daabase",
+    ".vscode": "config",
+    "Arizart_Netssential": "",
+    "src_vdQ": "src",
+    "config_vdQ": "config",
+    "controllers_vdQ": "controllers",
+    "middlewares_vdQ": "middlewares",
+    "models_vdQ": "models",
+    "routes_vdQ": "routes",
+    "services_vdQ": "services",
+    "uploads_vdQ": "uploads",
+
+
+
+
+
+  },
+  // 🛠️ Configuraciones útiles de edición
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  // 🌐 Ajustes recomendados para proyectos web
+  "html.format.indentInnerHtml": true,
+  "css.validate": true,
+  "javascript.validate.enable": true
+}
